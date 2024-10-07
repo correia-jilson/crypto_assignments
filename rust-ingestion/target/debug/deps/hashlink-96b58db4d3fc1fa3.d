@@ -1,0 +1,10 @@
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/debug/deps/libhashlink-96b58db4d3fc1fa3.rmeta: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/debug/deps/libhashlink-96b58db4d3fc1fa3.rlib: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/debug/deps/hashlink-96b58db4d3fc1fa3.d: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs
+
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs:

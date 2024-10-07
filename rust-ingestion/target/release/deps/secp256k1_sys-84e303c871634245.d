@@ -1,0 +1,10 @@
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/release/deps/libsecp256k1_sys-84e303c871634245.rmeta: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/macros.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/types.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/recovery.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/release/deps/libsecp256k1_sys-84e303c871634245.rlib: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/macros.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/types.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/recovery.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/release/deps/secp256k1_sys-84e303c871634245.d: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/macros.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/types.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/recovery.rs
+
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/lib.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/macros.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/types.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/secp256k1-sys-0.5.2/src/recovery.rs:

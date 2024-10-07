@@ -1,0 +1,10 @@
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/debug/deps/libbitcoincore_rpc-cb9d574cb242c902.rmeta: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/client.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/error.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/queryable.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/debug/deps/libbitcoincore_rpc-cb9d574cb242c902.rlib: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/client.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/error.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/queryable.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/debug/deps/bitcoincore_rpc-cb9d574cb242c902.d: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/client.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/error.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/queryable.rs
+
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/lib.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/client.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/error.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bitcoincore-rpc-0.15.0/src/queryable.rs:

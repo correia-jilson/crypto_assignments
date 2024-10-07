@@ -4,8 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bitcoin = "0.28.1"
-tokio = { version = "1", features = ["full"] }
-reqwest = { version = "0.11", features = ["json"] }
-rusqlite = "0.27"
-serde = { version = "1.0", features = ["derive"] }
+bitcoincore-rpc = "0.15"    # To interact with Bitcoin Core RPC
+tokio = { version = "1", features = ["full"] }  # For async functionality
+rusqlite = "0.26"           # For interacting with SQLite
+dotenv = "0.15"             # For managing environment variables

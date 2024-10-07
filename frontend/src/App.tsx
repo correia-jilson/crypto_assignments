@@ -2,22 +2,30 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css';
 
+interface BlockHeightResponse {
+    height: number;
+}
+
 const App: React.FC = () => {
     const [blockHeight, setBlockHeight] = useState<number | null>(null);
+    const [loading, setLoading] = useState<boolean>(true);
     const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
-        // Fetch block height from the backend API
         const fetchBlockHeight = async () => {
             try {
-                const response = await axios.get('http://localhost:3001/api/block-height');
+                setLoading(true);
+                const response = await axios.get<BlockHeightResponse>('http://localhost:3001/api/block-height');
                 setBlockHeight(response.data.height);
-            } catch (error) {
+                setError(null);
+            } catch (err) {
                 setError('Failed to fetch block height.');
+                setBlockHeight(null);
+            } finally {
+                setLoading(false);
             }
         };
 
-        // Call the function immediately and then every 10 seconds
         fetchBlockHeight();
         const interval = setInterval(fetchBlockHeight, 10000);
 
@@ -28,12 +36,14 @@ const App: React.FC = () => {
         <div className="App">
             <header className="App-header">
                 <h1>Bitcoin Block Height</h1>
-                {error ? (
-                    <p>{error}</p>
+                {loading ? (
+                    <p>Loading...</p> 
+                ) : error ? (
+                    <p style={{ color: 'red' }}>{error}</p>
+                ) : blockHeight !== null ? (
+                    <p>Current Block Height: {blockHeight.toLocaleString()}</p> // Displaying with commas
                 ) : (
-                    <p>
-                        Current Block Height: {blockHeight !== null ? blockHeight : 'Loading...'}
-                    </p>
+                    <p>No block height data available.</p>
                 )}
             </header>
         </div>

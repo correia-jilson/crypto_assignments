@@ -1,0 +1,46 @@
+version: '3'
+
+services:
+  bitcoin-core:
+    image: ruimarinho/bitcoin-core:latest
+    container_name: bitcoin-core
+    environment:
+      - BITCOIN_RPCUSER=myrpcuser
+      - BITCOIN_RPCPASSWORD=myrpcpassword
+      - BITCOIN_RPCPORT=8332
+      - BITCOIN_NETWORK=regtest  # or mainnet/testnet depending on your needs
+    ports:
+      - "8332:8332"  # Expose RPC port
+      - "8333:8333"  # Expose P2P port (optional)
+  backend:
+    build:
+      context: ./backend
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./backend:/usr/src/app
+    depends_on:
+      - bitcoin-core
+      - db
+  frontend:
+    build:
+      context: ./frontend
+    ports:
+      - "3000:80"
+    depends_on:
+      - backend
+  ingestion:
+    build:
+      context: ./rust-ingestion
+    depends_on:
+      - bitcoin-core
+      - db
+    environment:
+      - BTC_USERNAME=myrpcuser
+      - BTC_PASSWORD=myrpcpassword
+      - BTC_RPC_HOST=http://bitcoin-core:8332
+  db:
+    image: nouchka/sqlite3
+    volumes:
+      - ./data:/data
+    command: --datadir /data

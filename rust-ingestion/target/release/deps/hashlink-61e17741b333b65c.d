@@ -1,0 +1,10 @@
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/release/deps/libhashlink-61e17741b333b65c.rmeta: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/release/deps/libhashlink-61e17741b333b65c.rlib: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs
+
+/Users/jilsoncorreia/Downloads/crypto_assignments/rust-ingestion/target/release/deps/hashlink-61e17741b333b65c.d: /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs /Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs
+
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lib.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_map.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/linked_hash_set.rs:
+/Users/jilsoncorreia/.cargo/registry/src/index.crates.io-6f17d22bba15001f/hashlink-0.7.0/src/lru_cache.rs:
